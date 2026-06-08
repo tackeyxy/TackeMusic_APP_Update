@@ -2,16 +2,16 @@
   "status": 200,
   "data": {
     "release": {
-      "versionCode": 4,
-      "versionName": "1.0.4",
+      "versionCode": 5,
+      "versionName": "1.0.5",
       "download_url": "https://cdn.gh-proxy.org/https://github.com/tackeyxy/TackeMusic_APP_Update/blob/master/apk/app-release.apk",
       "file_size": "15.63 MB",
       "release_notes": "1. 新增用户系统（登录/注册/找回密码/个人资料）支持GitHub 数据同步功能\n2. 新增主题设置（深色/浅色模式）支持用户详情页自定义背板图片\n3. AndroidTV布局适配",
       "publish_time": "2026-06-07 21:15:00"
     },
     "debug": {
-      "versionCode": 4,
-      "versionName": "1.0.4",
+      "versionCode": 5,
+      "versionName": "1.0.5",
       "download_url": "https://cdn.gh-proxy.org/https://github.com/tackeyxy/TackeMusic_APP_Update/blob/master/apk/app-debug.apk",
       "file_size": "15.63 MB",
       "release_notes": "1. 新增用户系统（登录/注册/找回密码/个人资料）支持GitHub 数据同步功能\n2. 新增主题设置（深色/浅色模式）支持用户详情页自定义背板图片\n3. AndroidTV布局适配",
