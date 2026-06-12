@@ -6,15 +6,15 @@
       "versionName": "1.0.5",
       "download_url": "https://cdn.gh-proxy.org/https://github.com/tackeyxy/TackeMusic_APP_Update/blob/master/release/app-release.apk",
       "file_size": "17.63 MB",
-      "release_notes": "1. 新增导入三方歌单链接功能（支持QQ、网易云）\n2. 修复导入三方歌单时离开页面导致导入失败的问题",
+      "release_notes": "1. 新增导入三方歌单链接功能（支持QQ、网易云）\n2. 新增我的页自定义背景功能",
       "publish_time": "2026-06-10 18:15:00"
     },
     "debug": {
       "versionCode": 5,
       "versionName": "1.0.5",
       "download_url": "https://cdn.gh-proxy.org/https://github.com/tackeyxy/TackeMusic_APP_Update/blob/master/debug/app-debug.apk",
-      "file_size": "15.63 MB",
-      "release_notes": "1. 新增导入三方歌单链接功能（支持QQ、网易云）\n2. 修复导入三方歌单时离开页面导致导入失败的问题",
+      "file_size": "14.63 MB",
+      "release_notes": "1. 新增导入三方歌单链接功能（支持QQ、网易云）\n2. 新增我的页自定义背景功能",
       "publish_time": "2026-06-10 18:15:00"
     }
   }
